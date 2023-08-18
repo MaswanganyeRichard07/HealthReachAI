@@ -8,7 +8,7 @@ The problem stems from limited healthcare infrastructure, inadequate resources, 
 
 ![Our AI Solution Poster](https://github.com/Future-Intellect/HealthReachAI/assets/142222985/46fa9aaa-3b7a-4c2e-a114-e88e24462063)
 
-Model:
+*Model:*
 
 Cross-Validation: We will use cross-validation approaches to avoid overfitting and evaluate the model's capacity for generalization. The dataset will be divided into subsets for testing, validation, and training. This enables us to check the model's robustness and accuracy on unobserved data.
 Metrics Selection: 
