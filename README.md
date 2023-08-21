@@ -21,3 +21,14 @@ We will conduct real-world testing by deploying the AI model in controlled envir
 User Satisfaction Surveys:
  We will conduct surveys and gather feedback from local residents who have interacted with the AI-powered telemedicine platform in order to assess the model's effectiveness from the perspective of users. This input will shed light on the model's precision and effect on access to healthcare.
 
+Time Series Analysis on Data:
+We used the time series data for analysis.
+-Pandas package.
+-We used this package for data manipulation.
+-it creates ranges of months for us to check which months season combination is mostly high.
+-Standardising data formats and units to ensure consistency
+
+COMPONETS TO PREDICT
+Trends-increase and decrease in diseases affection.
+Seasonal-diseases varies due different seasons of the year.
+Cyclic-which diseases are mostly to repeat on a period of time.
